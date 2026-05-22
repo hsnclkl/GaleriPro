@@ -43,7 +43,7 @@ Programın en güncel versiyonunu indirmek için aşağıdaki adımları izleyin
 
 Galeri Pro lisanslı bir yazılımdır. İndirdiğiniz programı kullanabilmek için bir aktivasyon anahtarına ihtiyacınız vardır. Lisans anahtarınızı Shopier üzerinden güvenle satın alabilirsiniz. Ödeme sonrası lisans kodunuz anında dijital teslimat ile size iletilecektir.
 
-👉 **[Hemen Yıllık veya Sınırsız Lisans Satın Al](#)** *(Buraya Shopier dükkan linkini ekleyebilirsin)*
+👉 [https://benimyazilim.com](https://benimyazilim.com)
 
 Programı açtığınızda karşınıza çıkan ekrana size verilen kodu yapıştırarak hemen kullanmaya başlayabilirsiniz.
 
