@@ -53,5 +53,6 @@ Programı açtığınızda karşınıza çıkan ekrana size verilen kodu yapış
 
 Teknik destek, lisans işlemleri veya özel ERP/Yazılım talepleriniz için bana ulaşabilirsiniz:
 
-* **E-Posta:** destek@benimyazilim.com
-* **Web Sitemiz:** [benimyazilim.com](https://benimyazilim.com)
+* 📧 **E-Posta:** [destek@benimyazilim.com](mailto:destek@benimyazilim.com)
+* 🌐 **Web Sitesi:** [benimyazilim.com](https://www.benimyazilim.com)
+* 📸 **Instagram:** [@benimyazilim](https://instagram.com/benimyazilim)
