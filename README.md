@@ -55,4 +55,4 @@ Teknik destek, lisans işlemleri veya özel ERP/Yazılım talepleriniz için ban
 
 * **E-Posta:** destek@benimyazilim.com
 * **Web Sitemiz:** [benimyazilim.com](https://benimyazilim.com)
-* **İnstagram:** [instgram.com/benimyazilim](instgram.com/benimyazilim)
+* **İnstagram:** [instagram.com/benimyazilim](instagram.com/benimyazilim)
